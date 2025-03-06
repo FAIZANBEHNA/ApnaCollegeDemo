@@ -1,4 +1,4 @@
 # ApnaCollegeDemo
 This is my first git Repository
 <br>
-Author - Faizan Behna
+Author - Faizan Behna (apna College)
